@@ -1,5 +1,3 @@
-"# spring-boot-apirest"
-
 # Spring Boot API REST - Usando Angular como FrontEnd
 
 ## Introduction
